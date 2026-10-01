@@ -54,7 +54,7 @@ https://github.com/iranfit/hairtransplant/wiki
 ---
 
 <p align="center">
-  <img src="images/iranfit-hair-transplant-clinic-logo.webp" alt="کلینیک ایران فیت" width="180">
+  <img src="iranfit-hair-transplant-clinic-logo.webp" alt="کلینیک ایران فیت" width="180">
 </p>
 
 ## مشاوره تخصصی در کلینیک ایران فیت
