@@ -53,7 +53,7 @@ https://github.com/iranfit/hairtransplant/wiki
 
 ---
 
-<p align="center">
+<p>
   <img src="iranfit-hair-transplant-clinic-logo.webp" alt="کلینیک ایران فیت" width="180">
 </p>
 
